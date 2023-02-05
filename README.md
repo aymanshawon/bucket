@@ -62,3 +62,7 @@ bucket -d template <name>
 ```bash
 bucket -d clip <name>
 ```
+![CatMemeWatchingYouGIF](https://user-images.githubusercontent.com/73201236/216844708-1d41a79d-8f78-491e-9d0c-4dd5df6a32f6.gif)
+
+
+
